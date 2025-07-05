@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1>Hi 👋, I'm Mritunjay Mishra</h1>
 <p>A passionate frontend developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>

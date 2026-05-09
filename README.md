@@ -28,7 +28,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mritunjay Mishra&show_icons=true&locale=en&layout=compact" alt="Mritunjay Mishra" /></p>
 <h2>❤️ Support Me</h2>
 <p><p>
-<a href="[https://www.buymeacoffee.com/Mritunjaymishra2004](https://portfolio-nine-amber-41.vercel.app/)">
+<a href="https://www.buymeacoffee.com/Mritunjaymishra2004">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>
 </p>
